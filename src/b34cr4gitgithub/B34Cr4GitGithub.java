@@ -42,7 +42,7 @@ public class B34Cr4GitGithub {
         
         for (String string : laClasse) {
             System.out.println("bonjour "+string);
-        
+        }
         for(int i =0;i<10;i++){
         System.out.println("Hello World"); //Frederick
         }
