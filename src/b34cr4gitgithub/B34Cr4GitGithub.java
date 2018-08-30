@@ -5,6 +5,8 @@
  */
 package b34cr4gitgithub;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Le Padre
@@ -20,6 +22,25 @@ public class B34Cr4GitGithub {
         //Bonjour d'abderrazak
         
         System.out.println("Bonjour Steve");
+        ArrayList<String> laClasse = new ArrayList<String>(){{
+            add("MamadouS");
+            add("FrederickC");
+            add("ElogeB");
+            add("AntonR");
+            add("RiadS");
+            add("PhillipeC");
+            add("MartinB");
+            add("Martin-PhillipeB");
+            add("SteveR");
+            add("MamadouT");
+            add("AhmedM");
+            add("JihedJ");
+            add("HichamN");
+        }};
+        
+        for (String string : laClasse) {
+            System.out.println("bonjour "+string);
+        }
     }
     
 }
