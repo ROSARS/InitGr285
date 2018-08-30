@@ -18,9 +18,11 @@ public class B34Cr4GitGithub {
      */
     public static void main(String[] args) {
     System.out.println("Bonjour Anton");    // TODO code application logic here
+    System.out.println("Bonjour de riad"); 
         // TODO code application logic here
-        //Bonjour d'abderrazak
-        
+        //,Bonjour d'abderrazak
+        //Bonjour d'abderrazak, Eloge
+        //sdfsdf
         System.out.println("Bonjour Steve");
         ArrayList<String> laClasse = new ArrayList<String>(){{
             add("MamadouS");
@@ -40,6 +42,9 @@ public class B34Cr4GitGithub {
         
         for (String string : laClasse) {
             System.out.println("bonjour "+string);
+        
+        for(int i =0;i<10;i++){
+        System.out.println("Hello World"); //Frederick
         }
     }
     
