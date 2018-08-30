@@ -16,6 +16,7 @@ public class B34Cr4GitGithub {
      */
     public static void main(String[] args) {
     System.out.println("Bonjour Anton");    // TODO code application logic here
+    System.out.println("Bonjour de riad"); 
         // TODO code application logic here
         //Bonjour d'abderrazak
     }
