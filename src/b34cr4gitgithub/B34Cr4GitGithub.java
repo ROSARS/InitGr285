@@ -15,6 +15,7 @@ public class B34Cr4GitGithub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+    System.out.println("Bonjour Anton");    // TODO code application logic here
         // TODO code application logic here
         //Bonjour d'abderrazak
     }
